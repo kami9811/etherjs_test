@@ -1,0 +1,7 @@
+{
+  "name": "etherjs_test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
